@@ -1,0 +1,7 @@
+[Fri Aug 20 20:30:59.992832 2021] [mpm_winnt:notice] [pid 21784:tid 624] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Fri Aug 20 20:30:59.992832 2021] [mpm_winnt:notice] [pid 21784:tid 624] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Fri Aug 20 20:30:59.992832 2021] [core:notice] [pid 21784:tid 624] AH00094: Command line: 'C:\\Users\\jjnun\\OneDrive\\Escritorio\\mintic_java_ciclo_2\\msql/apache2/bin/httpd_usbwv8.exe -d C:/Users/jjnun/OneDrive/Escritorio/mintic_java_ciclo_2/msql/apache2'
+[Fri Aug 20 20:30:59.997836 2021] [mpm_winnt:notice] [pid 21784:tid 624] AH00418: Parent: Created child process 2888
+[Fri Aug 20 20:31:01.193830 2021] [mpm_winnt:notice] [pid 2888:tid 832] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 20 20:31:04.437852 2021] [:error] [pid 2888:tid 1288] [client 127.0.0.1:57333] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[Fri Aug 20 20:31:04.438853 2021] [:error] [pid 2888:tid 1288] [client 127.0.0.1:57333] PHP Fatal error:  Unknown: Failed opening required 'C:/Users/jjnun/OneDrive/Escritorio/mintic_java_ciclo_2/msql/phpmyadmin/index.php' (include_path='.;C:\\php\\pear') in Unknown on line 0
